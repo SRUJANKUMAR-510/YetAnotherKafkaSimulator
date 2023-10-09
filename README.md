@@ -1,2 +1,2 @@
-# BD1_287_297_298_611
+# Yet Another Kafka
 Repo created programmatically. Project Title: Yet another Kafka (YaK)

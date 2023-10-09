@@ -1,0 +1,2 @@
+debit 500
+credit 300

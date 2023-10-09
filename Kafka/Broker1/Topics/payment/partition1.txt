@@ -1,0 +1,4 @@
+credit 100
+credit 400
+credit 120
+debit 100
